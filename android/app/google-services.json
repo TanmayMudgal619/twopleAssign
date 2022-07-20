@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "822459913949",
+    "project_id": "twople-619",
+    "storage_bucket": "twople-619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822459913949:android:6b2c13cf1f40b6725cad34",
+        "android_client_info": {
+          "package_name": "com.example.twople"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822459913949-uoq7v9po1q3e7unh9jiehi0o189ub0nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX-EYMt4_2FZqb1fOtcD6XIeJyaSHjyMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822459913949-uoq7v9po1q3e7unh9jiehi0o189ub0nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "822459913949-2srgovqplvsnmon3qkoha5e8opeqv999.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twople"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
